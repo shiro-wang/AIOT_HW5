@@ -12,7 +12,7 @@
 pip install -r requirements.txt
 ```
 ### 1. 新稱app, heroku postgres
-![](images/2022-06-04 161231.jpg)
+![](images/2022-06-04-161231.jpg)
 ### 2. 在postgres的setting中找database的詳細資料
 ![](images/2022-06-04 161806.jpg)
 ### 3. 在HeidiSQL連線到postgres db
