@@ -29,3 +29,9 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ### 6. 嘗試在local端run
 ![](images/2022-06-04-165918.jpg)
 ### 7. push到Git，接著把Heroku連結到Github
+Heroku -> Deploy
+![](images/2022-06-04-171601.jpg)
+自動部屬
+![](images2022-06-04-171827.jpg)
+### 8. 完成
+https://ssu-aiothw5.herokuapp.com/
