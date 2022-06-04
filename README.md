@@ -32,6 +32,6 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 Heroku -> Deploy
 ![](images/2022-06-04-171601.jpg)
 自動部屬
-![](images2022-06-04-171827.jpg)
+![](images/2022-06-04-171827.jpg)
 ### 8. 完成
 https://ssu-aiothw5.herokuapp.com/
